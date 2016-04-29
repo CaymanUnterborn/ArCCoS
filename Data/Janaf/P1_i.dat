@@ -1,0 +1,4 @@
+#Phosphorus, White (P)	P1(cr)
+#T(K)	Cp	S	-[G-H(Tr)]/T	H-H(Tr)	delta-f H	delta-f G	log Kf
+298.15	23.825	41.077	41.077	0.	0.	0.	0.
+300	23.870	41.225	41.078	0.044	0.	0.	0.
